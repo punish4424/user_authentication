@@ -1,0 +1,5 @@
+Django==2.2.10
+django-cors-headers==3.4.0
+djangorestframework==3.11.0
+Pillow==7.0.0
+psycopg2==2.8.5
